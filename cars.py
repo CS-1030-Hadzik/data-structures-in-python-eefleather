@@ -18,3 +18,4 @@ print(cars)
 my_array_length = len(cars)
 array_string = 'The length of my array is'
 print(array_string + str(my_array_length))
+
